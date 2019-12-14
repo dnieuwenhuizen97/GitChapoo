@@ -1,0 +1,6 @@
+D:\Dylan\OneDrive - Hogeschool Inholland\School\Jaar 1\Periode 4\Project Applicatiebouw\ChapooSolution-Groep04\ChapooModel\bin\Debug\ChapooModel.dll
+D:\Dylan\OneDrive - Hogeschool Inholland\School\Jaar 1\Periode 4\Project Applicatiebouw\ChapooSolution-Groep04\ChapooModel\bin\Debug\ChapooModel.pdb
+D:\Dylan\OneDrive - Hogeschool Inholland\School\Jaar 1\Periode 4\Project Applicatiebouw\ChapooSolution-Groep04\ChapooModel\obj\Debug\ChapooModel.csprojAssemblyReference.cache
+D:\Dylan\OneDrive - Hogeschool Inholland\School\Jaar 1\Periode 4\Project Applicatiebouw\ChapooSolution-Groep04\ChapooModel\obj\Debug\ChapooModel.csproj.CoreCompileInputs.cache
+D:\Dylan\OneDrive - Hogeschool Inholland\School\Jaar 1\Periode 4\Project Applicatiebouw\ChapooSolution-Groep04\ChapooModel\obj\Debug\ChapooModel.dll
+D:\Dylan\OneDrive - Hogeschool Inholland\School\Jaar 1\Periode 4\Project Applicatiebouw\ChapooSolution-Groep04\ChapooModel\obj\Debug\ChapooModel.pdb
